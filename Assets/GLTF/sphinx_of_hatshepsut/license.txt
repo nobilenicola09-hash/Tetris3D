@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sphinx of Hatshepsut
+* source:	https://sketchfab.com/3d-models/sphinx-of-hatshepsut-bf46a8a24521494ea6dadb9b91d10cf3
+* author:	danderson4 (https://sketchfab.com/danderson4)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sphinx of Hatshepsut" (https://sketchfab.com/3d-models/sphinx-of-hatshepsut-bf46a8a24521494ea6dadb9b91d10cf3) by danderson4 (https://sketchfab.com/danderson4) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

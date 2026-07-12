@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coffin Ensemble of Taditjaina
+* source:	https://sketchfab.com/3d-models/coffin-ensemble-of-taditjaina-fc25f30a113d4056b7575686f712ff26
+* author:	Digital Humanities Center (https://sketchfab.com/dh-center-tuebingen)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coffin Ensemble of Taditjaina" (https://sketchfab.com/3d-models/coffin-ensemble-of-taditjaina-fc25f30a113d4056b7575686f712ff26) by Digital Humanities Center (https://sketchfab.com/dh-center-tuebingen) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
